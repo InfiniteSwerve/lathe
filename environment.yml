@@ -1,0 +1,11 @@
+name: lathe
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - graphviz
+  - python-graphviz
+  - numpy
+  - pytorch
+  - torchvision
